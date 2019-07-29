@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 print('Hallo World!');
 print('Wonderful world');
+print('Hey there!');
+print('Glad to see you!');
+print('Wonderful world');
+>>>>>>> master
