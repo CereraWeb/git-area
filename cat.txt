@@ -1,0 +1,2 @@
+print('I have a cat');
+print('My cat is the best');
